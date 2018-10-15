@@ -3,5 +3,6 @@
 phpinfo();
 
 echo 'hello word';
+die;
 
 ?>
